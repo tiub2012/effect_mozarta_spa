@@ -1,4 +1,4 @@
-# azbuka-sna-spa
+# effect_mozarta_spa
 
 ## Project setup
 ```
